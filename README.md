@@ -14,7 +14,7 @@ Java class(es) with implementations
 o Data representation of the population
 o Managing the control flow for evolution
  Java class(es) for testing
-Analyze the behavior of the patterns below. Place each pattern in the middle of a 40 x 40 field and 
+Analyze the behavior of the patterns. Place each pattern in the middle of a 40 x 40 field and 
 run the evolution. Take screenshots from the whole field.
 
 The Nassi-Shneiderman diagram for the calculation of the whole field
